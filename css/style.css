@@ -1,0 +1,19 @@
+#logo{
+  height: 45px;
+  width:45px;
+}
+#sell:link {
+  color: Black;
+}
+#sell:visited {
+  color: blue;
+}
+#sell:hover {
+  color: yellow;
+}
+#sell:active {
+  color: blue;
+}
+.navbar{
+  background-color: #48BF9C;
+}
