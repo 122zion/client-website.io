@@ -17,3 +17,7 @@
 .navbar{
   background-color: #48BF9C;
 }
+div div{
+  border-width: thick;
+  border-color: blue;
+}
