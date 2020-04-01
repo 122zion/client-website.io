@@ -14,8 +14,19 @@
 #sell:active {
   color: blue;
 }
+#box{
+  height: 50px;
+  width:50px;
+}
 .navbar{
   background-color: #48BF9C;
+}
+.jumbo{
+  text-align: center;
+  height: 100px;
+  width:105px;
+padding: 20px;
+margin-top: 10px; 
 }
 h1{
   text-align: center;
@@ -23,7 +34,7 @@ h1{
 }
 h2{
   font-family: 'Kaushan Script', cursive;
-  font-size: 75px; 
+  font-size: 75px;
 }
 .sale {
 
